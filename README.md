@@ -19,7 +19,7 @@ Currently learning:
 - Sharpen problem-solving in Python & C
 
 ### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/nikhilkatkuri) (add your link!)
+- [LinkedIn](https://www.linkedin.com/in/nikhilkatkuri)
 - Email: knikhil07k@gmail.com (replace with your real email if you want)
 
 ### 📂 GitHub Stats
