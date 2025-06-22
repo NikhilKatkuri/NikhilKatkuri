@@ -7,12 +7,10 @@ Currently learning:
 - Python projects and automation
 - Flutter (for mobile apps)
 
-### 🚀 Projects I'm working on:
-- FinTrack Pro (finance tracker app)
+### 🚀 Projects I'm working on: 
 - SkyNote (messaging app — web + app)
-- Traviki (travel booking UI)
 - Git-Lite (GitHub automation tool)
-- Quiz Game App (Python CLI)
+- Quiz App (Python CLI)
 
 ### 🌱 Goals:
 - Build more real-world projects
@@ -22,7 +20,7 @@ Currently learning:
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nikhilkatkuri) (add your link!)
-- Email: nikhilkatkuri@example.com (replace with your real email if you want)
+- Email: knikhil07k@gmail.com (replace with your real email if you want)
 
 ### 📂 GitHub Stats
 <p align="center">
