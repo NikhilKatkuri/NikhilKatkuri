@@ -7,10 +7,20 @@ Currently learning:
 - Python projects and automation
 - Flutter (for mobile apps)
 
-### 🚀 Projects I'm working on: 
-- SkyNote (messaging app — web + app)
-- Git-Lite (GitHub automation tool)
-- Quiz App (Python CLI)
+### 🚀 Projects I'm working on:
+
+- **Hitam Connect** *(Student App - Concept, WIP)*  
+  Personal project to explore student features — Chat, Courses, Alerts — not officially released.
+
+- **SkyNote** *(Messaging App — Web + App)*  
+  Built with Flutter & Next.js — supports cross-platform messaging.
+
+- **Git-Lite** *(GitHub Automation Tool)*  
+  CLI-based tool to automate GitHub repo creation and updates.
+
+- **Quiz App (Python CLI)**  
+  Terminal-based quiz app with scoreboard and user profiles.
+
 
 ### 🌱 Goals:
 - Build more real-world projects
