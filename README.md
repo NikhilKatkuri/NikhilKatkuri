@@ -30,7 +30,7 @@ Currently learning:
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nikhilkatkuri)
-- Email: knikhil07k@gmail.com (replace with your real email if you want)
+- Email: knikhil07k@gmail.com 
 
 ### 📂 GitHub Stats
 <p align="center">
