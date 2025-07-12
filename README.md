@@ -78,11 +78,14 @@ A terminal-based quiz application with user profiles, developed as part of learn
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilKatkuri&theme=dark)
 
 # **📫 Connect with Me**
-**LinkedIn:** [Nikhil Katkuri](https://linkedin.com/in/katkurinikhil)  
-**Email:** knikhil07k@gmail.com  
-**GitHub:** [NikhilKatkuri](https://github.com/NikhilKatkuri)  
-**npm:** [git-lite-cli](https://www.npmjs.com/package/git-lite-cli)   
-**LeetCode:** [z2NzIqiLZV](https://leetcode.com/u/z2NzIqiLZV/)
+| Platform     | Link |
+|--------------|------|
+| **LinkedIn:** | [Nikhil Katkuri](https://linkedin.com/in/katkurinikhil) |  
+| **Email:** | [knikhil07k@gmail.com](mailto:knikhil07k@gmail.com)  |  
+| **GitHub:** | [NikhilKatkuri](https://github.com/NikhilKatkuri) |  
+| **npm:** | [git-lite-cli](https://www.npmjs.com/package/git-lite-cli) |   
+| **LeetCode:** | [z2NzIqiLZV](https://leetcode.com/u/z2NzIqiLZV/) |
+
 
 
 # **🏆 Achievements**
