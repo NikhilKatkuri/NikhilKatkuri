@@ -11,8 +11,8 @@ I'm a **Computer Science & Engineering** student at **Hyderabad Institute of Tec
 | :------------------ | :--------------------|
 | **Frontend**       | HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, React Native         |
 | **Backend**       |  Node.js, Express.js, REST APIs |
-| **Mobile** | Flutter, Dart, React Native, Expo |
-| **Languages** | Python, Java, C, C++ (Learning) |
+| **Mobile(familiar)** | Flutter, Dart, React Native, Expo |
+| **Languages(familiar)** | Python, Java, C, C++ (Learning) |
 | **Tools**          | Git, GitHub, npm, Vite, Figma (UI/UX), CLI Development |
 | **Databases**     |  Firebase |
 | **Problem-Solving**               |  Data Structures, Algorithms, LeetCode (20+ problems solved) |
