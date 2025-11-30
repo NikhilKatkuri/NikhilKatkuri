@@ -1,99 +1,41 @@
-# 👋 Nikhil Katkuri
+# Hey there! 👋
 
-I'm a **Computer Science & Engineering** student at **Hyderabad Institute of Technology and Management (HITAM)**, specializing in **Data Science**. As a self-taught developer, I'm passionate about building innovative solutions in **Full-Stack Web Development**, **Mobile Apps**, and **Python Automation**. I thrive on solving complex problems, leading collaborative projects, and continuously learning new technologies.
+I'm Nikhil, a 2nd-year B.Tech CSE (Data Science) student at HITAM, Hyderabad.  
+Self-taught full-stack developer who ships real things — even if most of my tabs say “40% done”.  
+I love code. I love design even more. Turning ideas into something people can actually click is pure magic to me.
 
-🌟 **Currently Mastering:** Full-Stack Development (Next.js, React.js, Node.js), Flutter for cross-platform apps, and JavaScript for automation and AI.
-🚀 **Mission**: Create impactful, user-focused applications and contribute to open-source communities.
+**Tech Stack**  
+React 19 • TypeScript • JavaScript • Node.js • Next.js 14 (App Router) • Tailwind CSS • Express • Firebase • REST APIs
 
-# 🛠️ Skills
+**Mobile & Cross-Platform (currently learning & obsessed)**  
+Flutter • Dart • Expo 
 
-| Category        | Technologies | 
-| :------------------ | :--------------------|
-| **Frontend**       | HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js, React Native         |
-| **Backend**       |  Node.js, Express.js, REST APIs |
-| **Mobile(familiar)** | Flutter, Dart, React Native, Expo |
-| **Languages(familiar)** | Python, Java, C, C++ (Learning) |
-| **Tools**          | Git, GitHub, npm, Vite, Figma (UI/UX), CLI Development |
-| **Databases**     |  Firebase |
-| **Problem-Solving**               |  Data Structures, Algorithms, LeetCode (20+ problems solved) |
-| **Other** | Data Science Basics, AI Basics, Automation Scripts, API Design |
+**Tools & Workflow**  
+Git • GitHub Actions • Figma • CLI-first everything
 
+**Currently Exploring**  
+MongoDB • System Design • “How to actually finish projects”
 
-# 🚀 Featured Projects
-## **Hitam Connect (Student App - Concept, WIP)**
+## The Real Story (100% honest)
 
-A platform to enhance campus connectivity for students.  
+- I have ~47 repos right now.  
+- Exactly 1 is properly finished (MVP) and published → **git-lite-cli**  
+  One-command repo bootstrapping. From 12 mins of pain to 18 seconds.  
+  Node.js • TypeScript • Octokit  
+  v1.2.1 live • 1,039 total downloads • Peak day 430 🔥  
+  → npmjs.com/package/git-lite-cli
 
-- **Features:** Real-time chat, course tracking, campus alerts.  
-- **Tech Stack:** Flutter, Next.js, Node.js.  
-- **Status:** In development, focusing on scalable backend integration.
+- The other 46? Somewhere between 10–70% done (classic indie dev energy).  
+  Hitam Connect (campus super-app), SkyNote (encrypted messenger), few half-built projects, and one quiz app that still works somehow.
 
-## **SkyNote (Cross-Platform Messaging App)**
-A sleek messaging app for web and mobile, targeted for completion by August 2026.  
+I’m the guy with 200 tabs open and 50 half-baked ideas, but I’m learning to ship more and dream slightly less.
 
-- **Features:** Real-time messaging, push notifications, secure authentication.  
-- **Tech Stack:** Flutter, Next.js, Firebase.  
-- **Status:** Actively developing real-time features and UI enhancements.
+**Connect with me**  
+Email: knikhil07k@gmail.com  
+LinkedIn: linkedin.com/in/nikhil-katkuri  
+GitHub: github.com/NikhilKatkuri  
+npm: search “git-lite-cli”  
+LeetCode: z2NzIqiLZV (daily grind, 20+ solved → 500 by 3rd year)
 
-## **Git-Lite CLI (GitHub Automation Tool)**
-A lightweight CLI for automating GitHub workflows. Published on npm: git-lite-cli.  
-
-- **Features:** Automates repository creation, branch management, and commits.  
-- **Tech Stack:** Node.js, TypeScript, Inquirer, Chalk.  
-- **Status:** v1.2.1 released, planning advanced automation and CI/CD integration.
-
-## **Quiz App (Python CLI Quiz)**
-A terminal-based quiz application with user profiles, developed as part of learning Python.  
-
-- **Features:** Interactive quizzes, scoreboard, question customization.  
-- **Tech Stack:** Python.  
-- **Status:** In development, enhancing features and exploring database integration.
-
-
-# **🧠 LeetCode Achievements**
-  I'm passionate about problem-solving and regularly tackle coding challenges   on LeetCode to sharpen my algorithmic skills.  
-
-- **Profile:** z2NzIqiLZV  
-- **Progress:** Solved 20+ problems, focusing on arrays, strings, dynamic programming, and graph algorithms.  
-- **Goal:** Solve 500+ problems by 2026 to prepare for top-tier technical interviews.
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/z2NzIqiLZV?theme=dark&font=Inter)
-
-
-# **🌱 Goals**
-
-- **Project Portfolio:** Launch 5+ production-ready projects by 2026, emphasizing Full-Stack and AI-driven applications.  
-- **Backend Expertise:** Master Node.js, Express, and databases like Firebase and MongoDB.  
-- **Mobile Development:** Develop and publish a cross-platform app on iOS and Android using Flutter or React Native.  
-- **Competitive Programming:** Solve 500+ LeetCode problems in Python, JavaScript, C++, and C to excel in technical interviews.  
-- **Open Source:** Contribute to open-source projects and grow my GitHub community.
-
-
-# **📊 GitHub Stats & Activity**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilKatkuri&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilKatkuri&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilKatkuri&theme=dark)
-
-# **📫 Connect with Me**
-| Platform     | Link |
-|--------------|------|
-| **LinkedIn:** | [Nikhil Katkuri](https://linkedin.com/in/katkurinikhil) |  
-| **Email:** | [knikhil07k@gmail.com](mailto:knikhil07k@gmail.com)  |  
-| **GitHub:** | [NikhilKatkuri](https://github.com/NikhilKatkuri) |  
-| **npm:** | [git-lite-cli](https://www.npmjs.com/package/git-lite-cli) |   
-| **LeetCode:** | [z2NzIqiLZV](https://leetcode.com/u/z2NzIqiLZV/) |
-
-
-
-# **🏆 Achievements**
-
-- **Published npm Package:** Released `git-lite-cli`, streamlining GitHub workflows for developers worldwide.  
-- **Team Leadership:** Led development of Hitam Connect, coordinating a team to design student-focused features.  
-- **Cross-Platform Development:** Building Hitam Connect with 90% code reuse across mobile platforms.  
-- **Problem-Solving:** Solved 20+ LeetCode problems, mastering algorithms and data structures for technical interviews.
-
-
-**"Code is a canvas for innovation. Keep building, keep evolving." 🚀**
+Still in college. Still figuring it out. Still shipping anyway.  
+Let’s build something - finished or not - together! 🚀
