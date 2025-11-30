@@ -18,14 +18,14 @@ MongoDB • System Design • “How to actually finish projects”
 
 ## The Real Story (100% honest)
 
-- I have ~47 repos right now.  
+- I have few repos right now.  
 - Exactly 1 is properly finished (MVP) and published → **git-lite-cli**  
-  One-command repo bootstrapping. From 12 mins of pain to 18 seconds.  
+  One-command repo bootstrapping. From 2-5 mins of pain to 18 seconds.  
   Node.js • TypeScript • Octokit  
   v1.2.1 live • 1,039 total downloads • Peak day 430 🔥  
   → npmjs.com/package/git-lite-cli
 
-- The other 46? Somewhere between 10–70% done (classic indie dev energy).  
+- The other ? Somewhere between 10–70% done (classic indie dev energy).  
   Hitam Connect (campus super-app), SkyNote (encrypted messenger), few half-built projects, and one quiz app that still works somehow.
 
 I’m the guy with 200 tabs open and 50 half-baked ideas, but I’m learning to ship more and dream slightly less.
