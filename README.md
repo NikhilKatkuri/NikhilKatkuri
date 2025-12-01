@@ -32,8 +32,8 @@ I’m the guy with 200 tabs open and 50 half-baked ideas, but I’m learning to 
 
 **Connect with me**  
 Email: knikhil07k@gmail.com  
-LinkedIn: linkedin.com/in/nikhil-katkuri  
-GitHub: github.com/NikhilKatkuri  
+LinkedIn: [linkedin.com/in/katkurinikhil](https://www.linkedin.com/in/katkurinikhil)\
+GitHub: [github.com/NikhilKatkuri ](https://github.com/NikhilKatkur)\
 npm: search “git-lite-cli”  
 LeetCode: z2NzIqiLZV (daily grind, 20+ solved → 500 by 3rd year)
 
