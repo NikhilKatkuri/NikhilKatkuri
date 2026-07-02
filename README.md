@@ -25,7 +25,7 @@ python • Java • Dart (familiar)
 
 **Connect with me**  
 Email: knikhil07k@gmail.com  
-Portfolio: [nikhilkatkuri.vercel.app(https://nikhilkatkuri.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_visit)\
+Portfolio: [nikhilkatkuri.vercel.app](https://nikhilkatkuri.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_visit)\
 LinkedIn: [linkedin.com/in/katkurinikhil](https://www.linkedin.com/in/katkurinikhil)\
 GitHub: [github.com/NikhilKatkuri ](https://github.com/NikhilKatkur)\
 npm: search “git-lite-cli”  
