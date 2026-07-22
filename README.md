@@ -1,35 +1,19 @@
-# Hey there! 👋
+# Hi, I'm Nikhil Katkuri 👋
 
-I’m a 2nd-year B.Tech CSE (Data Science) student at HITAM, Hyderabad and a self-taught developer who focuses on shipping usable software.
+Full Stack Developer focused on building reliable backend systems, modern web applications, mobile experiences, and developer tooling.
 
-I enjoy writing clean code, care deeply about design, and like turning rough ideas into things people can actually use.
+I enjoy solving real-world problems through clean architecture, thoughtful user experiences, and maintainable software.
 
-**Tech Stack**  
-TypeScript • JavaScript • Node.js\
-React 19 • Next.js 15 (App Router) • Tailwind CSS\
-Express • Firebase • REST APIs • MongoDB
+Currently building backend systems, full-stack applications, and open-source projects while learning system design and scalable architectures.
 
-**Mobile & Cross-Platform (Familiar)**\
-Expo • Flutter 
+### Elsewhere
 
-**Currently Exploring**  
-MongoDB • System Design • “How to actually finish projects”
+**Portfolio** — https://nikhilkatkuri.vercel.app
 
-**Tools & Workflow**  
-Git • GitHub Actions • Figma • CLI-first everything
+**GitHub** — https://github.com/NikhilKatkuri
 
-**Languages**  
-JavaScript • Typescript • C programming \
-python • Java • Dart (familiar)
+**LinkedIn** — https://linkedin.com/in/katkurinikhil
 
+**LeetCode** — https://leetcode.com/u/z2NzIqiLZV/
 
-**Connect with me**  
-Email: knikhil07k@gmail.com  
-Portfolio: [nikhilkatkuri.vercel.app](https://nikhilkatkuri.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_visit)\
-LinkedIn: [linkedin.com/in/katkurinikhil](https://www.linkedin.com/in/katkurinikhil)\
-GitHub: [github.com/NikhilKatkuri ](https://github.com/NikhilKatkur)\
-npm: search “git-lite-cli”  
-LeetCode: [z2NzIqiLZV](https://leetcode.com/u/z2NzIqiLZV/) (daily grind, 40+ solved)
-
-Still in college. Still learning. Still shipping.\
-Open to collaborating on impactful, real-world projects 🚀.
+**Email** — [knikhil07k@gmail.com](mailto:knikhil07k@gmail.com)
