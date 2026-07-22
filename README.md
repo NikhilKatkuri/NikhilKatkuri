@@ -1,10 +1,10 @@
 # Hi, I'm Nikhil Katkuri 👋
 
-Full Stack Developer focused on building reliable backend systems, modern web applications, mobile experiences, and developer tooling.
+Full Stack Developer building backend systems, modern web applications, mobile experiences, and developer tools.
 
-I enjoy solving real-world problems through clean architecture, thoughtful user experiences, and maintainable software.
+Passionate about creating software that's simple, maintainable, and built to solve real-world problems.
 
-Currently building backend systems, full-stack applications, and open-source projects while learning system design and scalable architectures.
+Currently building full-stack applications, backend systems, and open-source projects.
 
 ### Elsewhere
 
@@ -16,4 +16,4 @@ Currently building backend systems, full-stack applications, and open-source pro
 
 **LeetCode** — https://leetcode.com/u/z2NzIqiLZV/
 
-**Email** — [knikhil07k@gmail.com](mailto:knikhil07k@gmail.com)
+**Email** — <knikhil07k@gmail.com>
